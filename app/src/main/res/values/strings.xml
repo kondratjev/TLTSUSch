@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ТГУ</string>
+    <string name="action_group">Сменить группу</string>
+    <string name="action_settings">Изменить тему</string>
+    <string name="title_activity_schedule">Расписание ТГУ</string>
+
+    <string-array name="institutes">
+        <item>АСИ</item>
+        <item>АСИ (Д)</item>
+        <item>ГУМПИ</item>
+        <item>ГУМПИ (2г)</item>
+        <item>ИиИДПИ</item>
+        <item>ИМФиИТ</item>
+        <item>ИнМаш</item>
+        <item>ИП</item>
+        <item>ИХиИЭ</item>
+        <item>ИФКиС</item>
+        <item>ИФЭиУ</item>
+        <item>ИЭиЭ</item>
+    </string-array>
+
+    <string-array name="institutes_server">
+        <item>ASI</item>
+        <item>D</item>
+        <item>GYMPI</item>
+        <item>PF</item>
+        <item>IIiDPI</item>
+        <item>IMFIT</item>
+        <item>IM</item>
+        <item>G</item>
+        <item>IP</item>
+        <item>IHiIE</item>
+        <item>IFKiC</item>
+        <item>IFEiU</item>
+        <item>IEIE</item>
+    </string-array>
+
+    <string-array name="class_time">
+        <item>"08:30\n10:00"</item>
+        <item>"10:15\n11:45"</item>
+        <item>"12:45\n14:15"</item>
+        <item>"14:30\n16:00"</item>
+        <item>"16:15\n17:45"</item>
+        <item>"18:00\n19:30"</item>
+        <item>"19:45\n21:15"</item>
+    </string-array>
+</resources>
